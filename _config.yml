@@ -24,10 +24,11 @@ description: Welcome to the New World of Networking!!
 # List of links in the navigation bar
 navbar-links:
   About Us: "aboutus"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+  Join Us:
+    - Personal: "http://jcephas722.github.io/signup1"
+    - Business: "http://jcephas722.github.io/signup2"
+    - Organization: "http://jcephas722.github.io/signup3"
+    -Recruiter: "http://jcephas722.github.io/signup4"
   Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
